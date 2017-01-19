@@ -1,0 +1,19 @@
+{
+  "name": "node-module-playground",
+  "version": "0.1.0",
+  "description": "Playground to learn &amp; hack on node modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scott4dev/node-module-playground.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/scott4dev/node-module-playground/issues"
+  },
+  "homepage": "https://github.com/scott4dev/node-module-playground#readme"
+}
